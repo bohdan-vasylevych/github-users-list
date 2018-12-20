@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User component matches the snapshot 1`] = `
+<div
+  className="panel panel-default"
+>
+  <div
+    className="panel-heading"
+  >
+    name
+  </div>
+  <div
+    className="panel-body"
+  >
+    <div
+      className="col-md-6"
+    >
+      <img
+        alt="name"
+        src="avatar_url"
+      />
+    </div>
+    <div
+      className="col-md-6"
+    >
+      <ul
+        className="list-group"
+      >
+        <li
+          className="list-group-item"
+        >
+          followers: 
+          followers
+        </li>
+        <li
+          className="list-group-item"
+        >
+          following: 
+          following
+        </li>
+        <li
+          className="list-group-item"
+        >
+          created_at: 
+          created_at
+        </li>
+        <li
+          className="list-group-item"
+        >
+          company: 
+          company
+        </li>
+        <li
+          className="list-group-item"
+        >
+          email: 
+          email
+        </li>
+        <li
+          className="list-group-item"
+        >
+          location: 
+          location
+        </li>
+        <li
+          className="list-group-item"
+        >
+          blog: 
+          blog
+        </li>
+        <li
+          className="list-group-item"
+        >
+          bio: 
+          bio
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

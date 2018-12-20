@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`User component matches the snapshot 1`] = `
+<div
+  className="col-md-3"
+>
+  <a
+    className="user"
+    href="/login"
+    onClick={[Function]}
+  >
+    <div
+      className="panel panel-default"
+    >
+      <div
+        className="panel-heading"
+      >
+        login
+      </div>
+      <div
+        className="panel-body"
+      >
+        <img
+          alt="login"
+          className="user-img img-responsive"
+          src="avatar_url"
+        />
+      </div>
+      <div
+        className="panel-footer"
+      >
+        <p>
+          html_url
+        </p>
+      </div>
+    </div>
+  </a>
+</div>
+`;

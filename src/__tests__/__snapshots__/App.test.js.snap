@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component matches the snapshot 1`] = `
+<div
+  className="app"
+>
+  <div
+    className="home-page"
+  >
+    <div
+      className="user-list container"
+    >
+      <div
+        className="row"
+      />
+    </div>
+    <button
+      className="btn btn-primary btn-block"
+      disabled={false}
+      onClick={[Function]}
+      type="button"
+    >
+      Load More
+    </button>
+  </div>
+</div>
+`;

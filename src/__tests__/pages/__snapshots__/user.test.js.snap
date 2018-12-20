@@ -1,0 +1,78 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component matches the snapshot 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="row"
+  >
+    <div
+      className="panel panel-default"
+    >
+      <div
+        className="panel-heading"
+      />
+      <div
+        className="panel-body"
+      >
+        <div
+          className="col-md-6"
+        >
+          <img
+            alt="name"
+          />
+        </div>
+        <div
+          className="col-md-6"
+        >
+          <ul
+            className="list-group"
+          >
+            <li
+              className="list-group-item"
+            >
+              followers: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              following: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              created_at: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              company: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              email: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              location: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              blog: 
+            </li>
+            <li
+              className="list-group-item"
+            >
+              bio: 
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
